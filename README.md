@@ -1,1 +1,1 @@
-# SCF-Scatter-HW
+#I did networth and age as my two quantitative variables. I chose these because I thought there would be a strong, easy to see correlation, of networth going up as you age. The actual scatterplot was actually interesting because the networth goes up, peaks, and then begins going down again, which I didn't anticipate. I realized that it peaks around 65, which makes sense because that's when most people retire, so it would make sense for their networth to keep going up as they work and then go down as they use money on retirement. 
